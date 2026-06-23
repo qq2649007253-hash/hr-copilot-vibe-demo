@@ -10,7 +10,7 @@
 
 📌 核心功能截图 (Screenshots)
 
-(请在运行项目后，截图并替换下方的链接)
+<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/458a2eba-af06-4979-ae03-7c992781bc31" />
 
 1. 上传简历与 JD 匹配
 
