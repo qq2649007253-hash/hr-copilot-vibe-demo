@@ -10,7 +10,7 @@
 
 📌 核心功能截图 (Screenshots)
 
-<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/458a2eba-af06-4979-ae03-7c992781bc31" />
+<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/044c2ff6-ea6b-4eee-8b3f-40a6a62a5f4e" />
 
 1. 上传简历与 JD 匹配
 
